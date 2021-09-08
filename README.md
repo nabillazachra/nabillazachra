@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning about programming
 - 💬 Talk to me about anything, i'll respond to it
-- 📫 You can reach me on: 
-   - www.linkedin.com/in/nabilla-zachra/
-   - www.twitter.com/zabchra
-   - nabillazachra14@gmail.com
+- 📫 You can reach me on the social media in my bio
 - 😄 My Pronouns: She/Her
 - ⚡ Fun fact: I'd like to learn about many things such as Technology, Sports, and Arts

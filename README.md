@@ -38,10 +38,11 @@ Here are some ideas to get you started:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png" />
 <br/ >
 
+<br/ >
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=nabillazachra&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqirosyidi&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="165">
     </p>
-
+<br/>
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=nabillazachra&color=brightgreen&style=flat-square" alt="profile_views"/>
 </p>

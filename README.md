@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 
-- 🌱 I’m currently learning about javascript
+- 🌱 I’m currently learning about Javascript
 - 💬 Talk to me about anything, i'll respond to it
 - 📫 You can reach me on the social media in my bio
 - 😄 My Pronouns is She/Her
